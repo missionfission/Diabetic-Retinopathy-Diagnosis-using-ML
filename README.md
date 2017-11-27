@@ -1,4 +1,4 @@
-ReadTrim.m reads an excel file and gets the pressure data perpendixular to the foot it to the requirements.
+ReadTrim.m reads an excel file and gets the pressure data perpendixular to the foot.
 
 Data.m is a class file which has 3 properties: filename, matrix, medians, min, max.
 filename is a excel filename.
