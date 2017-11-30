@@ -7,3 +7,4 @@ for i=1:size(y,2)
     y(:,i)=y(:,i)-min(y(:,i));
     y(:,i)=y(:,i)./max(y(:,i));
 end
+y=median(y);
